@@ -50,6 +50,7 @@
         "good_position_reward_scale": 0.01,
         "trailing_stop_distance_points": 200,
         "drawdown_penalty_factor": 10,
+        "margin_requirement": 100,
         "consistency_reward" : 0.01,
         "max_consistency" : 12
     },
