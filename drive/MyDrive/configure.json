@@ -7,7 +7,7 @@
         "min_bars_per_week": 1440,
         "train_eval_split": {
             "eval_criteria": ["nan", "zero"],
-            "base_path": "./drive/MyDrive/data/split/{symbol}/",
+            "base_path": "/content/drive/MyDrive/data/split/{symbol}",
             "train_dir": "train",
             "eval_dir": "eval"
         },
@@ -36,19 +36,22 @@
         ],
         "action_threshold": 0.5,
         "over_night_cash_penalty": 5,
-        "balance": 1000,
+        "balance": 100000,
         "symbol_col": "symbol", 
         "time_col": "time",
         "random_start": true,
-        "log_filename": "./drive/MyDrive/data/log/log_{symbol}",
+        "log_filename": "/content/drive/MyDrive/data/log/log_{symbol}",
         "do_nothing": 0.1,
         "title":"{symbol} 5M weekly",
         "description":"sma, rsi and boll input in weekly with {symbol}",
         "shaping_reward": 0.1,
         "forward_window": 12,
         "backward_window": 96, 
-        "good_position_encourage": 2,
-        "consistency_reward" : 0.01
+        "good_position_reward_scale": 0.01,
+        "trailing_stop_distance_points": 200,
+        "drawdown_penalty_factor": 10,
+        "consistency_reward" : 0.01,
+        "max_consistency" : 12
     },
     "symbol": {
         "GBPUSD": {
