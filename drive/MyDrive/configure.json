@@ -36,7 +36,7 @@
         ],
         "action_threshold": 0.5,
         "over_night_cash_penalty": 5,
-        "balance": 100000,
+        "balance": 1000,
         "symbol_col": "symbol", 
         "time_col": "time",
         "random_start": true,
