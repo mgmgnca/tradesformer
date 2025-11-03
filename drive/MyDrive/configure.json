@@ -1,8 +1,8 @@
 {
     "data_processing": {
         "indicator_period": 288,  
-        "sequence_length": 20,
-        "required_cols": ["time","open", "high", "low", "close"],
+        "sequence_length": 100,
+        "required_cols": ["time","open", "high", "low", "close"], 
         "scale_cols": ["macd", "rsi_30", "atr", "dx_30"],
         "min_bars_per_week": 1440,
         "train_eval_split": {
