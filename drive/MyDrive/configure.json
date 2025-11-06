@@ -1,6 +1,17 @@
 {
     "data_processing": {
-        "indicator_period": 288,  
+        "indicator": {
+            "sma_fast_period": 50,
+            "sma_mid_period": 100,
+            "sma_slow_period" : 200,
+            "atr_period": 14,
+            "rsi_period": 14,
+            "macd_fast_period": 12,
+            "macd_slow_period": 26,
+            "macd_signal_period": 9,
+            "adx_period": 14,
+            "stoch_period": 14
+        },
         "sequence_length": 100,
         "required_cols": ["time","open", "high", "low", "close"], 
         "scale_cols": ["macd", "rsi_30", "atr", "dx_30"],
@@ -103,8 +114,8 @@
     "trading_hour":{
         "Sydney":{"from":0,"to":0},
         "Tokyo":{"from":0,"to":0},
-        "London":{"from":0,"to":0},
-        "New York":{"from":0,"to":0}
+        "London":{"from":8,"to":16},
+        "NewYork":{"from":9,"to":17}
     },
     "ploting":{
         "buy":{"color":"red","shape":""},
