@@ -1,0 +1,404 @@
+Id,Start,Name,Impact,Currency
+be36572c-0dbf-4b11-aca1-bf854160ba4a,01/03/2020 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+5b125588-01ca-4aca-a365-8902ef7839f1,01/03/2020 15:00:00,ISM Manufacturing PMI,HIGH,USD
+3fa72395-467b-48b9-b0a3-29529d398237,01/03/2020 19:00:00,FOMC Minutes,HIGH,USD
+2d6440df-69b8-4322-b175-002ae17088e3,01/07/2020 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+9671cb3a-f6d0-4192-a982-ac67e5c08304,01/07/2020 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+61b73587-20eb-4300-b019-008603aab00b,01/07/2020 15:00:00,ISM Services PMI,HIGH,USD
+a6ac24d9-e0a4-4883-ac64-9ca04cb226bd,01/10/2020 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
+25bc356b-32af-46f5-931f-a73a3e242229,01/10/2020 13:30:00,Nonfarm Payrolls,HIGH,USD
+0bb5ff56-9686-4971-9c2f-29e1d60af6a4,01/14/2020 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+db3c4845-fc93-4f24-a4b6-f82d3f69b985,01/14/2020 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+57f3242b-7c55-4ccb-b936-8098467c5ce7,01/16/2020 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+b2fa30df-6215-48eb-9ead-3bbe2a0bbed0,01/16/2020 12:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR
+2f601fb5-2315-441d-b5cb-17ccd17f664f,01/16/2020 18:00:00,ECB's President Lagarde speech,HIGH,EUR
+ab4ac19c-0f69-4384-bc16-4a9d35837ba0,01/20/2020 18:30:00,ECB's President Lagarde speech,HIGH,EUR
+6e608cac-7fbf-47a8-b1ac-f8d2c5445bb3,01/21/2020 09:00:00,ECB Bank Lending Survey,HIGH,EUR
+cf24b65c-7c17-4811-9aed-8e2af9ab0bdb,01/21/2020 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+66546006-2a29-47b9-a618-5b630247ef95,01/23/2020 12:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+7b12d24a-29ef-4df4-8622-ecd05a3162b0,01/23/2020 12:45:00,ECB Rate On Deposit Facility,HIGH,EUR
+2614bb74-e02d-49f8-b938-04567d06b053,01/23/2020 13:30:00,ECB Press Conference,HIGH,EUR
+d6325e0f-f0af-43ea-ba8a-6e5da7d4b42f,01/24/2020 08:30:00,HCOB Composite PMI,HIGH,EUR
+f6f3e4b1-43a1-4d16-87a9-b8787bdb212d,01/24/2020 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
+b3ca2c64-b028-4364-97fa-3bd39d82755b,01/24/2020 09:00:00,HCOB Composite PMI,HIGH,EUR
+712f8d23-1a13-4163-b11f-bbb47a83d39e,01/24/2020 10:30:00,ECB's President Lagarde speech,HIGH,EUR
+da69e2c8-b39c-441a-9422-1f9c9c41007f,01/28/2020 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+088a324d-7e8c-4c41-951f-adb4cb7d9b09,01/29/2020 19:00:00,Fed Interest Rate Decision,HIGH,USD
+0a39e563-e8fe-406a-9c08-908d9edccd82,01/29/2020 19:30:00,FOMC Press Conference,HIGH,USD
+ec43303f-4b43-4617-b2be-c5ff4eed2171,01/30/2020 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+36ae7ee6-45fc-4f10-9160-0eb8adc568e1,01/30/2020 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+b89161d3-091c-4bc0-9b23-bd510f82aabc,01/31/2020 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+01e93d60-086d-41eb-b2ff-3bd2025e8e6b,01/31/2020 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+43339a4e-6097-473e-be76-51bb6678be02,01/31/2020 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+7752f1cc-a1ce-4e9c-9900-43b6e5a9387c,01/31/2020 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+ed0c6307-b5a7-46c6-88bb-d60ab7d8dafe,02/03/2020 15:00:00,ISM Manufacturing PMI,HIGH,USD
+f1f36445-315d-4339-b365-b83d54aea9d2,02/05/2020 12:15:00,ECB's President Lagarde speech,HIGH,EUR
+edb0b490-d67f-4b26-82b7-6162bb78b924,02/05/2020 15:00:00,ISM Services PMI,HIGH,USD
+ff708974-b0a6-4114-95e9-3f95c31bd4fe,02/06/2020 08:00:00,ECB's President Lagarde speech,HIGH,EUR
+b92f5e6a-b5c7-4db9-a613-9bfcd642c5a1,02/07/2020 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
+65a3ab28-7c5f-4fb4-ab1c-ba08a0be516f,02/07/2020 13:30:00,Nonfarm Payrolls,HIGH,USD
+45e3bdbf-650f-4433-b737-b26ffe1615e8,02/11/2020 14:00:00,ECB's President Lagarde speech,HIGH,EUR
+5c6a9f9b-b38f-4ff1-94b1-07b3a85d3dd0,02/11/2020 15:00:00,Fed's Chair Powell testifies,HIGH,USD
+fd7cd57b-9aee-4f50-a410-9d01a3090083,02/12/2020 14:30:00,Fed's Chair Powell testifies,HIGH,USD
+930427a8-3471-4237-aefb-16d4147c4ba5,02/13/2020 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+696c8232-b1ca-4ccd-a0e7-e2bce15f13f2,02/13/2020 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+118833de-84e2-4ebf-8b17-d66c4f5ded65,02/13/2020 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+773bb2a7-c017-4b86-9476-b737bccfa436,02/14/2020 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR
+d70da135-c815-476c-bf7f-e6afbe06b4f4,02/14/2020 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+957473dc-c17a-44f4-96f7-271706378f90,02/14/2020 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+be83909e-1d4d-488e-a407-2ec68a8cf7c5,02/18/2020 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+03c4546b-45bd-4d1b-b9f5-d0af5f0c7b40,02/19/2020 19:00:00,FOMC Minutes,HIGH,USD
+77acba5d-682e-4a16-8832-4a0ad174219e,02/20/2020 12:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR
+41140d39-40dc-4c82-b0e9-6d5bfdfa2f6b,02/21/2020 08:30:00,HCOB Composite PMI,HIGH,EUR
+1985931c-c16c-43cf-97f7-b50f2d012fa4,02/21/2020 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
+04c64762-f210-4194-8f9b-615381da3784,02/21/2020 09:00:00,HCOB Composite PMI,HIGH,EUR
+fc67ca12-e4f6-4db6-8a46-b9173be88825,02/26/2020 13:30:00,ECB's President Lagarde speech,HIGH,EUR
+ff446fb9-0925-429e-9513-6bcb1c8b4b34,02/27/2020 09:45:00,ECB's President Lagarde speech,HIGH,EUR
+4ad075f4-1498-4bff-b093-70d5709813b9,02/27/2020 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+9d0e958a-fd61-4fae-8fc1-2f8be5b90094,02/27/2020 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+10cd72fe-3d8f-4e62-b8f1-6d7776d7cd62,02/28/2020 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+fe709024-e8ba-48bd-9f7e-b89c0d0b4400,03/02/2020 15:00:00,ISM Manufacturing PMI,HIGH,USD
+c8245000-579c-481e-884d-b698ab7ea087,03/03/2020 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+f64b89e9-c125-402a-94ae-229a703c9047,03/03/2020 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+73b0a4a1-f2bd-45ee-ab71-541218ac57c2,03/03/2020 15:00:00,Fed Interest Rate Decision,HIGH,USD
+3098f11e-9a10-455c-bdc7-5e5835d6642a,03/03/2020 16:00:00,FOMC Press Conference,HIGH,USD
+57d35945-2573-468e-af8e-f9434ea465bf,03/04/2020 15:00:00,ISM Services PMI,HIGH,USD
+8de9bb82-c07a-4509-86d4-39b8a6502d0b,03/06/2020 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
+5db70ce0-a3cc-49d7-952c-926f05979d4d,03/06/2020 13:30:00,Nonfarm Payrolls,HIGH,USD
+306c4da0-0eef-44ae-90cf-daeba99b65e4,03/10/2020 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+cb507e2a-2bd3-4b8d-9eb0-64884d184da6,03/10/2020 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+68dfb772-a555-4a40-bd48-ba162085e522,03/11/2020 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+9733735a-7b73-41d1-97bb-f8eab237c7d4,03/11/2020 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+d7dea3b3-0aa8-434b-960c-87a5d3795160,03/12/2020 12:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+3b076250-e8cb-4e9a-b6c6-0e3f7d13aa35,03/12/2020 12:45:00,ECB Rate On Deposit Facility,HIGH,EUR
+d3d8cf36-edcf-4b3d-b6e3-3434ae79e569,03/12/2020 13:30:00,ECB Press Conference,HIGH,EUR
+46d6399f-22cc-4367-b827-a668c084f75c,03/13/2020 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+c3d37bbf-655e-4ed1-bdca-f97842d38b79,03/15/2020 21:00:00,Fed Interest Rate Decision,HIGH,USD
+2754324f-2a1c-4a47-af18-52a9513a9f82,03/15/2020 21:00:00,Fed Monetary Policy Statement,HIGH,USD
+6e40ae90-e5b9-4080-a2b3-06822d741f97,03/15/2020 22:30:00,Fed's Chair Powell speech,HIGH,USD
+dc53510c-88a6-4a74-a4c8-5ffac6f3c64f,03/17/2020 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+b9eaf040-acf8-49ca-aea3-e7085dab0285,03/19/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+e2792551-7cb2-4ffb-b5f4-cb5467fc0f69,03/24/2020 08:30:00,HCOB Composite PMI,HIGH,EUR
+d6f7ba4f-33c4-43db-99d8-c7170f8c4193,03/24/2020 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
+3df47645-1cf5-4878-bb6f-80ba072e4aa7,03/24/2020 09:00:00,HCOB Composite PMI,HIGH,EUR
+49187c7d-aacd-480e-954b-2e133f732177,03/24/2020 13:45:00,S&P Global Composite PMI,HIGH,USD
+4287fec2-6055-4da1-8f61-63d0aa56b96d,03/24/2020 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
+d6dec984-2528-4ba1-9a69-06cd9dac283c,03/24/2020 13:45:00,S&P Global Services PMI,HIGH,USD
+97e07277-cc62-476e-be62-823ff89a50ea,03/25/2020 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+0d745b51-d557-4f59-a2c8-ad41d30f7c21,03/26/2020 11:05:00,Fed's Chair Powell speech,HIGH,USD
+f6519037-6b15-491d-b2f2-aa2600035628,03/26/2020 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+51c85f17-cd7c-4a09-9803-67b9bb56980a,03/26/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+ebf3ad2d-27f0-4e9d-8669-75f55309d125,03/30/2020 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+3c94059f-986c-43b6-b1e9-31dd0aa29e4e,03/31/2020 07:55:00,Unemployment Change,HIGH,EUR
+afab264b-7330-48ea-8493-678e835e7810,03/31/2020 07:55:00,Unemployment Rate s.a.,HIGH,EUR
+0c28395a-67ef-4e0d-903c-7d929f772202,03/31/2020 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+574c5964-1827-4851-ac40-528d93f63e84,03/31/2020 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+b7150ebb-6666-49a1-9dec-7face875184b,04/01/2020 12:15:00,ADP Employment Change,HIGH,USD
+a87060d7-9c83-4f1b-afc2-8fde7f428100,04/01/2020 14:00:00,ISM Manufacturing PMI,HIGH,USD
+4ac84ae7-ab2b-45e5-bf01-bd2e78a5e15c,04/02/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+93f61fed-19ae-4459-88d8-cf9a615ef099,04/03/2020 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+a51b50b0-401a-4264-ac03-94abb9c09dc3,04/03/2020 12:30:00,Nonfarm Payrolls,HIGH,USD
+8ee11977-da92-4d06-a5c5-e77512d66583,04/03/2020 14:00:00,ISM Services Employment Index,HIGH,USD
+9e5a113d-9f75-46f4-a32a-12d2ed60b593,04/03/2020 14:00:00,ISM Services PMI,HIGH,USD
+3827d753-f31e-43f5-87f3-ae2cc52abcb4,04/08/2020 18:00:00,FOMC Minutes,HIGH,USD
+f0550571-38c1-42b6-8673-1fcefe059743,04/09/2020 11:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR
+7afddc01-73e8-40a1-8fbf-691e9f8eeeb1,04/09/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+81e0c44f-4c1f-4adf-9a9a-4d6405849972,04/09/2020 14:00:00,Fed's Chair Powell speech,HIGH,USD
+c2fb278a-8749-4358-bf43-274346427bbc,04/10/2020 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+4c88be4d-3676-45e0-9d71-6607f8567ca1,04/10/2020 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+02cbb675-a395-4a23-af0f-a29b95b9c74c,04/16/2020 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+ed829115-d57c-4254-96b9-66c59424d50a,04/16/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+a72538f6-58e5-4bc4-a2ae-5f5682f26fe2,04/21/2020 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+2951ee45-32bd-452a-8b93-7e41d9ab59b2,04/23/2020 07:30:00,HCOB Composite PMI,HIGH,EUR
+f104990e-d881-4b4f-95c4-fed3f8082c10,04/23/2020 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
+3811d181-0a6d-44ba-a104-a3554b86c9ce,04/23/2020 08:00:00,HCOB Composite PMI,HIGH,EUR
+32b773a7-8fae-4f13-90b1-645d337b5921,04/23/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+661a1154-ea0d-4f71-b523-5081c9d9454a,04/24/2020 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+338f0b5b-0919-4736-add9-dd10b1422fcd,04/28/2020 08:00:00,ECB Bank Lending Survey,HIGH,EUR
+11a4b1e4-2048-43a4-aa1b-51b58b725b58,04/29/2020 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+a8e01b9a-e156-4556-925d-50b55ace3037,04/29/2020 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+05058e77-e5f5-4a5f-88be-ec6e8ff59f03,04/29/2020 18:00:00,Fed Interest Rate Decision,HIGH,USD
+d4d5364c-2820-4411-a320-2b2d520ad10e,04/29/2020 18:30:00,FOMC Press Conference,HIGH,USD
+952bf48e-6bdc-42ad-81f4-882c36416ec3,04/30/2020 07:55:00,Unemployment Change,HIGH,EUR
+2df42b58-64d6-45e4-b8de-baade5f3b508,04/30/2020 07:55:00,Unemployment Rate s.a.,HIGH,EUR
+45f335b9-2001-4cb1-a901-891b8bc65d36,04/30/2020 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+87d84b9d-f5cc-45ea-b73b-14da81e5369f,04/30/2020 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+1d548e7b-d2eb-4813-9a51-3a65f0eb21de,04/30/2020 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+4b14b139-63ae-448c-8ba0-8f6ef935289c,04/30/2020 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+7a489092-cd12-48b5-a6b3-eb2a44952738,04/30/2020 09:00:00,Unemployment Rate,HIGH,EUR
+0e9ff65e-4e87-4651-9976-a690b8ba139f,04/30/2020 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+d3043642-fd21-4251-823d-e8c6152d62a7,04/30/2020 11:45:00,ECB Rate On Deposit Facility,HIGH,EUR
+afade3ed-18ac-46ae-8ced-67e2c644417e,04/30/2020 12:30:00,ECB Press Conference,HIGH,EUR
+13bde909-2a38-4a9e-beaf-05f26d249411,04/30/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+97a0222f-5312-4ca3-b196-b424afe8f6de,05/01/2020 14:00:00,ISM Manufacturing PMI,HIGH,USD
+52333eca-9753-4c35-8add-55388065542c,05/05/2020 14:00:00,ISM Services Employment Index,HIGH,USD
+8dca8d61-33d4-4b6a-9a0f-776e0df6d926,05/05/2020 14:00:00,ISM Services PMI,HIGH,USD
+6ac0681c-4732-4ab8-b4cc-c6920891e0bf,05/06/2020 12:15:00,ADP Employment Change,HIGH,USD
+0d33686b-59cc-4eaa-9b37-43668c1a81b9,05/07/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+9b9d1d64-2def-48e8-9c9d-04b1746e636e,05/08/2020 11:00:00,ECB's President Lagarde speech,HIGH,EUR
+cb097a3e-6e4a-4bc0-9404-e672eb037b2b,05/08/2020 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+37098859-b307-4ff2-9315-08d499b52215,05/08/2020 12:30:00,Nonfarm Payrolls,HIGH,USD
+504a85b1-2be4-4107-9f30-20b4c4b03910,05/12/2020 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+9c264072-1579-4e69-b7e3-c4eea105ea2c,05/12/2020 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+ea810d46-4b5d-472b-a102-9dc71a580319,05/13/2020 13:00:00,Fed's Chair Powell speech,HIGH,USD
+afd31127-4bc0-4a23-92e7-5f0085f8f6dd,05/14/2020 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+81a7ed13-be2e-4234-aef4-37b5b6b842a4,05/14/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+8baa0867-9a75-4bec-82eb-0dee84ce5748,05/15/2020 08:00:11,Gross Domestic Product (QoQ),HIGH,EUR
+1f87e505-4b22-4585-9b55-2745cadedfb2,05/15/2020 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+06e06c8a-88c2-472d-8a62-0ac842698a34,05/15/2020 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+2c1f4553-a962-4185-bf5d-f1353ff1bf3d,05/19/2020 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+be17a58c-3bd7-4a4d-b84b-2cf325cf835d,05/19/2020 14:00:00,Fed's Chair Powell testifies,HIGH,USD
+1d94c468-0f4e-49d3-92d2-ff6b01c7072f,05/20/2020 18:00:00,FOMC Minutes,HIGH,USD
+9f84c508-2b9f-4b08-b9f0-e93107253e20,05/21/2020 07:30:00,HCOB Composite PMI,HIGH,EUR
+509a71ce-5103-4ab6-bb5f-cbd2cdffb270,05/21/2020 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
+26434d49-d60d-4525-a3eb-debffb5ff2f9,05/21/2020 08:00:00,HCOB Composite PMI,HIGH,EUR
+91daa632-2648-4df3-8c63-cb9ed2856323,05/21/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+e8392c03-3429-4174-88a6-3f37b5ede515,05/21/2020 18:30:00,Fed's Chair Powell speech,HIGH,USD
+7c893988-70f0-487d-8ddd-73b626613661,05/22/2020 11:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR
+267ca4b4-3266-4f07-ae7c-152580f7b9db,05/27/2020 07:30:00,ECB's President Lagarde speech,HIGH,EUR
+b2478c62-9e40-4bb9-9c8b-ad6960653c7c,05/28/2020 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+d965241e-8e8b-4214-98e5-b997eba1114c,05/28/2020 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+5d58414a-2ef4-4c54-a0a8-a506e32bb6e4,05/28/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+17f962f7-fcc9-4e30-8416-dbd961cde56d,05/28/2020 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+997dcb22-b3cb-4715-bc2f-b5f03dc5433c,05/29/2020 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+f486d6c7-eeda-4199-b330-6a8f76f427a7,05/29/2020 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+4bbbc76b-dc7b-466d-bd6c-f892d3285d71,05/29/2020 15:00:00,Fed's Chair Powell speech,HIGH,USD
+56c02e01-39d7-47b6-921c-70a7ffdac7d0,06/01/2020 14:00:00,ISM Manufacturing PMI,HIGH,USD
+b9a83b7e-06c7-4ccc-aac7-f391fca89914,06/03/2020 07:55:00,Unemployment Change,HIGH,EUR
+08cb78dc-df1f-4d26-a0a9-378637192ec5,06/03/2020 07:55:00,Unemployment Rate s.a.,HIGH,EUR
+6a05c1e1-d621-488e-95ad-0f3204fef0be,06/03/2020 09:00:00,Unemployment Rate,HIGH,EUR
+40874929-78fb-4dec-b158-f9053477bbaf,06/03/2020 12:15:00,ADP Employment Change,HIGH,USD
+bfc52eea-6c69-4c8a-8a5e-ee84d021b190,06/03/2020 14:00:00,ISM Services Employment Index,HIGH,USD
+d2d1dd96-11ba-457a-bc12-4134e1e5c336,06/03/2020 14:00:00,ISM Services PMI,HIGH,USD
+e37cc5e5-4c6d-4f68-8185-579b11bb0a1c,06/04/2020 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+136b76fd-29d7-4b4c-8901-3209534504ea,06/04/2020 11:45:00,ECB Rate On Deposit Facility,HIGH,EUR
+38631928-db94-43f3-af6c-3719a872b4c9,06/04/2020 12:30:00,ECB Press Conference,HIGH,EUR
+2793202f-7cdf-4d29-b2c5-15712e85e85b,06/04/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+600ef7fe-6c3a-46e1-bef0-8728c6a57e3f,06/05/2020 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+8a5e602b-4fc9-484b-bb86-496094ba7ae4,06/05/2020 12:30:00,Nonfarm Payrolls,HIGH,USD
+48e93673-899d-47d8-85e5-7c69d6bd43de,06/08/2020 13:45:00,ECB's President Lagarde speech,HIGH,EUR
+24a63d34-02be-4918-b3ac-a293add39cbc,06/08/2020 15:45:00,ECB's President Lagarde speech,HIGH,EUR
+a20281d9-e2d5-4829-b425-709157154cd9,06/09/2020 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+5e802f6c-d078-4ab2-930d-ff8e7fb0c371,06/09/2020 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+2e58750f-6052-4c98-afbb-7a2d7144ff9c,06/10/2020 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+40458d2e-3184-4134-9c0f-2314b195035e,06/10/2020 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+67f0c2d4-e0c0-44d8-aa0d-ec6c89fce5a1,06/10/2020 18:00:00,Fed Interest Rate Decision,HIGH,USD
+2ae2b206-d900-4def-8532-4588535a64ef,06/10/2020 18:00:00,Fed Monetary Policy Statement,HIGH,USD
+ca1414ef-f49d-4bfe-a184-0ba53467bceb,06/10/2020 18:00:00,FOMC Economic Projections,HIGH,USD
+740d5291-0370-48e6-b480-64eb25a85d16,06/10/2020 18:00:00,Interest Rate Projections - 1st year,HIGH,USD
+e9a1ef42-0df8-4170-85a8-dd900cf9d5a0,06/10/2020 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+2ae2f012-5729-4229-9db4-c184cf19425a,06/10/2020 18:00:00,Interest Rate Projections - Current,HIGH,USD
+3429e279-1895-4871-853f-011c7e378f28,06/10/2020 18:00:00,Interest Rate Projections - Longer,HIGH,USD
+ecdc6b6b-291d-43c0-8785-df298ff9a6f3,06/10/2020 18:30:00,FOMC Press Conference,HIGH,USD
+71467750-c33a-40bb-ac24-5fa311063483,06/11/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+9748faf5-1344-47ba-b179-1a407f3305fb,06/16/2020 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+39009a76-ffe8-40df-82d7-351dc88fe632,06/16/2020 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+c003f1e6-3ab4-4298-9d55-a8f8fcbb66ad,06/16/2020 14:00:00,Fed's Chair Powell testifies,HIGH,USD
+7fdd5ac2-0c88-41b6-ac04-3a0f1b484463,06/17/2020 16:00:00,Fed's Chair Powell testifies,HIGH,USD
+135abe2e-b8d1-48c1-8b28-423ed19cdab6,06/18/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+ae32547b-341a-4c44-908f-4fd1086f2f61,06/19/2020 17:00:00,Fed's Chair Powell speech,HIGH,USD
+878796e5-89e3-4a68-b407-0479b80ec86f,06/23/2020 07:30:00,HCOB Composite PMI,HIGH,EUR
+9fe070b3-3c53-426a-8823-46c8f68fa570,06/23/2020 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
+5f6eaa80-cdf5-40df-8e2d-517687a8a815,06/23/2020 08:00:00,HCOB Composite PMI,HIGH,EUR
+def89717-4e3d-45fa-8e12-141307f55071,06/25/2020 11:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR
+eb664164-15b3-45aa-a79f-3ad358016438,06/25/2020 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+bd76531f-e27f-4699-9b6b-eefeed6e38c3,06/25/2020 12:30:00,Initial Jobless Claims,HIGH,USD
+30a29799-5636-41d1-93cd-188c7a0d4876,06/25/2020 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+38c52873-2fea-4c49-a84f-054dd3fbe29e,06/25/2020 20:30:00,Bank Stress Test Results,HIGH,USD
+751f982b-88db-4122-8820-f4b81973986e,06/26/2020 07:00:00,ECB's President Lagarde speech,HIGH,EUR
+086b4baf-1cec-4e08-9a53-fcc51b8f6184,06/29/2020 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+8e046653-d8f5-429f-a616-ba4475461d29,06/30/2020 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+5c4f20fd-c57a-4154-8e22-8a0802ee59f2,06/30/2020 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+2c1cd0a5-0b8d-45b6-b573-acd075ba7384,06/30/2020 16:30:00,Fed's Chair Powell testifies,HIGH,USD
+31aa87a1-d254-4037-a81e-e9dc84e48b01,07/01/2020 07:55:00,Unemployment Change,HIGH,EUR
+13825651-0867-4feb-9e32-ace3bdc40efe,07/01/2020 07:55:00,Unemployment Rate s.a.,HIGH,EUR
+fb27322f-19c2-40a2-8597-0745f9412c6e,07/01/2020 12:15:00,ADP Employment Change,HIGH,USD
+0196d3b0-141e-49d5-8973-fc47ca349e26,07/01/2020 14:00:00,ISM Manufacturing PMI,HIGH,USD
+8ef648e7-b5d1-496c-ba18-a07500e35df6,07/01/2020 18:00:00,FOMC Minutes,HIGH,USD
+286ce853-a770-46df-bd6e-3f630854b5d6,07/02/2020 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+a3c9becb-f5ff-4650-bc5a-d1bcf8bd95de,07/02/2020 12:30:00,Nonfarm Payrolls,HIGH,USD
+8f5f5604-cf84-48f5-b96b-72a800792a0c,07/04/2020 10:40:00,ECB's President Lagarde speech,HIGH,EUR
+67c1c090-8e0b-4e22-9677-33d24fbebb84,07/06/2020 14:00:00,ISM Services PMI,HIGH,USD
+a48e8aa1-5d04-43f2-9aa4-0b933c25c549,07/14/2020 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+874af6b3-537c-47af-aab6-74f78ecd0d18,07/14/2020 08:00:00,ECB Bank Lending Survey,HIGH,EUR
+77e9e0b3-528b-4c8c-9d23-fe663af8684e,07/14/2020 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+b3cc29b9-9893-4f5b-8485-40ed5bb86661,07/14/2020 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+6218ec91-9fb3-413c-91a3-e4f24bc60035,07/14/2020 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+7e357c9d-e995-48a0-a260-112884c82434,07/16/2020 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+1f6443f4-7627-43c1-b87a-1e451c34f96d,07/16/2020 11:45:00,ECB Rate On Deposit Facility,HIGH,EUR
+169de492-1430-4c95-88cb-3c964581dd1c,07/16/2020 12:30:00,ECB Press Conference,HIGH,EUR
+f6fd6d8f-a11c-4a65-8b6b-a5783da45d6b,07/22/2020 13:15:00,ECB's President Lagarde speech,HIGH,EUR
+1a093418-1904-4ea6-98c1-1bde89a2d7f2,07/24/2020 07:30:00,HCOB Composite PMI,HIGH,EUR
+d7396f6d-4e74-486f-b63e-1d3cbee438a6,07/24/2020 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
+f8cb6a99-07a8-48a1-a0ef-4f20941e5474,07/24/2020 08:00:00,HCOB Composite PMI,HIGH,EUR
+a1b78dd9-2b87-4928-b842-c5f5ed1a4e1c,07/27/2020 12:30:00,Durable Goods Orders,HIGH,USD
+ae0ea800-a943-4a58-9193-f83ce5261662,07/27/2020 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+b7ac6ad2-b73a-4b5d-89a6-587257d3bda0,07/29/2020 18:00:00,Fed Interest Rate Decision,HIGH,USD
+402e692d-b9ba-47fd-923d-0b45ddac1ee5,07/29/2020 18:00:00,Fed Monetary Policy Statement,HIGH,USD
+abcfc97d-4953-4538-86ce-3ebfd9121092,07/29/2020 18:30:00,FOMC Press Conference,HIGH,USD
+cea15cc6-3453-47c0-a478-151d80255964,07/30/2020 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR
+8f8949a1-bdca-431d-ad8a-387d025ea2dd,07/30/2020 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+ef77fcc7-48f1-4ebc-b35d-50e426856345,07/30/2020 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+b5292856-57ed-46df-9752-0cf6ea7c42cd,07/31/2020 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+aa801ac3-8745-4352-a1f2-143f1d530693,07/31/2020 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+80ef4c16-8ae4-4a52-ad71-ed6d4e755006,07/31/2020 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+c76142de-83fb-4902-aac1-d9934fc26529,07/31/2020 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+131a173e-c923-45f1-841b-ff0137c58d18,08/03/2020 14:00:00,ISM Manufacturing PMI,HIGH,USD
+1bce1d2a-633c-4315-969a-ba70e7251f60,08/05/2020 12:15:00,ADP Employment Change,HIGH,USD
+a07e3270-5924-46a9-a438-b0e6940dce3c,08/05/2020 14:00:00,ISM Services PMI,HIGH,USD
+1464f823-72c9-4515-ba4c-8381840ef372,08/07/2020 12:30:00,Nonfarm Payrolls,HIGH,USD
+d46d7aab-5efc-48af-a2b1-4500bd21d158,08/12/2020 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+649be6b8-0239-49a2-b46a-c279fa8f21be,08/12/2020 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+c5724e62-4115-4366-9395-4059a7d4f024,08/13/2020 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+86ec540d-284d-4ab2-b945-2e2fa5bed80a,08/14/2020 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+5f52c144-8a1e-464d-8940-658a69d6b1d8,08/14/2020 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+acb1c4b0-1fcd-4e9b-82f8-908851dc2885,08/19/2020 18:00:00,FOMC Minutes,HIGH,USD
+29f8b9e0-4afc-429d-999b-35d6e609ffef,08/21/2020 07:30:00,HCOB Composite PMI,HIGH,EUR
+9eb8ca3d-3bf0-45c0-bbd6-9000381289d4,08/21/2020 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
+bd30af2f-3981-47db-98b8-ed8e3e324396,08/21/2020 08:00:00,HCOB Composite PMI,HIGH,EUR
+88a3009b-a62c-4b17-a2ed-e0d43a81057e,08/26/2020 12:30:00,Durable Goods Orders,HIGH,USD
+9e95303f-d8e1-4a8b-94d7-5ca42323049f,08/26/2020 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+6d9af91a-fd64-47e4-83be-2f71d7810f5b,08/27/2020 00:00:00,Jackson Hole Symposium,HIGH,USD
+66c15cd1-3a75-4e5b-b9e0-9c7860e31265,08/27/2020 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+1c7e3a47-4ecc-493e-ab19-4add6055f1bf,08/27/2020 13:10:00,Fed's Chair Powell speech,HIGH,USD
+4d4e5a1e-3608-4d93-949d-43ff47e0c13f,08/28/2020 00:00:00,Jackson Hole Symposium,HIGH,USD
+15174621-76b8-4504-bc88-fe34ae6efafb,08/31/2020 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+105fcef2-be05-4340-8bf7-7e933f3240ab,09/01/2020 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+b41cd3c6-1474-4f87-b892-d42c09b0437e,09/01/2020 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+6ca31d36-15bf-41bc-ad68-02531b4cedf1,09/01/2020 14:00:00,ISM Manufacturing PMI,HIGH,USD
+87ea2c4e-8847-46cf-87f2-a50180bd1e27,09/02/2020 12:15:00,ADP Employment Change,HIGH,USD
+9500a481-2789-46fa-a5ca-3277bc481563,09/03/2020 14:00:00,ISM Services PMI,HIGH,USD
+680dbd33-9962-423e-a80f-81095de06390,09/04/2020 12:30:00,Nonfarm Payrolls,HIGH,USD
+3e18093f-c447-4b19-bda6-9d8ac5718005,09/08/2020 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+a640f306-f36f-40bf-9569-8e52fe5ee958,09/08/2020 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+5c5e4198-c470-4879-8802-d367322b1a13,09/10/2020 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+1957589e-389a-4fb5-80c0-88e337ba65fc,09/10/2020 11:45:00,ECB Rate On Deposit Facility,HIGH,EUR
+9197ecee-a827-4fa7-aa23-70bc0e90295e,09/10/2020 12:30:00,ECB Press Conference,HIGH,EUR
+257e71a1-7e34-43f0-ba3a-d18676b664e0,09/10/2020 17:00:00,ECB's President Lagarde speech,HIGH,EUR
+769ec453-8509-4474-a79e-40a5d65cb5fe,09/11/2020 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+29c93388-5755-4d8a-bdcc-cda117539e7f,09/11/2020 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+55e9a21c-85a9-408f-9ab3-e077aa4e1673,09/11/2020 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+39e14190-ef34-4267-9b11-821fdc48cdec,09/16/2020 18:00:00,Fed Interest Rate Decision,HIGH,USD
+46022b49-60dd-447b-bbb7-d77d2a421631,09/16/2020 18:00:00,Fed Monetary Policy Statement,HIGH,USD
+1e666912-60d0-4f4c-8c7f-7312964011a6,09/16/2020 18:00:00,FOMC Economic Projections,HIGH,USD
+65987fa2-3f94-40d3-8e82-b4788c7097e1,09/16/2020 18:00:00,Interest Rate Projections - 1st year,HIGH,USD
+e5dd931a-966b-495d-9e89-8b451f9f2f3e,09/16/2020 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+4fe59f16-42d4-4709-ac8c-ef771500032a,09/16/2020 18:00:00,Interest Rate Projections - 3rd year,HIGH,USD
+6601966e-2065-41e5-a10e-4b990089c2bf,09/16/2020 18:00:00,Interest Rate Projections - Current,HIGH,USD
+2ad06d84-1ac8-4ecb-ad20-d8909f8ae6ec,09/16/2020 18:00:00,Interest Rate Projections - Longer,HIGH,USD
+8571d06e-89b3-4a5d-9f30-6b5167d7d7d2,09/16/2020 18:30:00,FOMC Press Conference,HIGH,USD
+085952db-0eff-453b-8762-3d17c5a89ab4,09/21/2020 12:25:00,ECB's President Lagarde speech,HIGH,EUR
+cf1b651a-93a0-405d-a9f4-63441045c9b5,09/21/2020 14:00:00,Fed's Chair Powell speech,HIGH,USD
+28f54bbe-757b-4fbc-ab47-89b3facaf5ed,09/22/2020 14:30:00,Fed's Chair Powell testifies,HIGH,USD
+93a0ab86-c959-4580-9de4-7bcf45fddcc1,09/23/2020 07:30:00,HCOB Composite PMI,HIGH,EUR
+f55ef8a1-7faf-4232-ac43-56dd0020cddd,09/23/2020 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
+7210e443-179c-46c8-b805-7e3dc9fbd145,09/23/2020 08:00:00,HCOB Composite PMI,HIGH,EUR
+abfc9a69-29c4-4e69-bc1d-164f9adf011a,09/23/2020 14:00:00,Fed's Chair Powell testifies,HIGH,USD
+ab80b449-a442-469a-8c67-a364fe50a313,09/24/2020 14:00:00,Fed's Chair Powell testifies,HIGH,USD
+df5be007-c846-472e-9654-1a760fada4b6,09/25/2020 12:30:00,Durable Goods Orders,HIGH,USD
+e5e4645b-1083-47b9-8d7d-8596f3d17011,09/25/2020 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+9e07c181-5dc0-4d0f-b3fc-8fdca430f91e,09/28/2020 13:45:00,ECB's President Lagarde speech,HIGH,EUR
+c054e269-ebe2-4b96-856f-5d7e44814111,09/29/2020 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+9f7c4561-1d05-4f21-bac0-f5179cb59dd0,09/30/2020 07:20:00,ECB's President Lagarde speech,HIGH,EUR
+ad135575-babb-466c-a6c2-fb7f324a4829,09/30/2020 12:15:00,ADP Employment Change,HIGH,USD
+df41bcc3-6395-4954-ac6a-912ee9207785,09/30/2020 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+328f7c09-1fe4-4e1f-a2a2-9526981d356e,10/01/2020 14:00:00,ISM Manufacturing PMI,HIGH,USD
+0b4ee6a1-0c24-40ce-b22d-1ca6a3d55822,10/02/2020 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+77f120aa-f26f-4837-a424-e5c1ca94d364,10/02/2020 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+44511324-d8f0-443e-b1c4-85eb5acd5154,10/02/2020 12:30:00,Nonfarm Payrolls,HIGH,USD
+6074280d-78f0-4a0f-84eb-352a31a49352,10/05/2020 14:00:00,ISM Services PMI,HIGH,USD
+aa579aa0-b7b3-4f3d-a102-f6b831c5f521,10/06/2020 13:00:00,ECB's President Lagarde speech,HIGH,EUR
+e35c5a99-65b4-4dd6-ab49-f043228c302b,10/06/2020 14:40:00,Fed's Chair Powell speech,HIGH,USD
+89890753-337f-4318-b4cd-cbfe7dcafd73,10/07/2020 12:10:00,ECB's President Lagarde speech,HIGH,EUR
+4223eb1a-a83d-408b-8b07-22676e33af10,10/07/2020 18:00:00,FOMC Minutes,HIGH,USD
+7938b4a8-7004-4e49-8e87-9c53fbb55157,10/12/2020 11:00:00,ECB's President Lagarde speech,HIGH,EUR
+abef83b7-1117-43b7-b439-e781ddeed890,10/13/2020 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+0f072013-c926-492d-bdac-a53bc10790b1,10/13/2020 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+ccea4d4a-3cb8-4511-a880-12bb5fc2b765,10/13/2020 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+afc3d548-8a3c-4388-807a-bf7c0cd81f79,10/14/2020 08:00:00,ECB's President Lagarde speech,HIGH,EUR
+e61d54ca-d271-484a-8fde-ff38c1b04847,10/15/2020 16:00:00,ECB's President Lagarde speech,HIGH,EUR
+7514eeeb-325c-4dbb-a0b0-c5e6f7cbedad,10/18/2020 13:05:00,ECB's President Lagarde speech,HIGH,EUR
+25d58ad0-8e4c-4c14-bac5-b722a120aa0e,10/19/2020 12:00:00,Fed's Chair Powell speech,HIGH,USD
+b325823c-afc5-42a2-9630-ac227f40af75,10/19/2020 12:40:00,ECB's President Lagarde speech,HIGH,EUR
+85f0e305-65e3-43a1-8483-51fbb5833ee2,10/19/2020 12:45:00,ECB's President Lagarde speech,HIGH,EUR
+57962c17-a18d-4a94-87ca-a7c9b3892b8b,10/21/2020 07:30:00,ECB's President Lagarde speech,HIGH,EUR
+d48c6869-373b-4992-8c2b-cd37cc690531,10/23/2020 07:30:00,HCOB Composite PMI,HIGH,EUR
+8345d153-52fd-4964-805e-dcd2a342525c,10/23/2020 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
+a4b99513-3514-4c14-af8f-2c68f1eb5b24,10/23/2020 08:00:00,HCOB Composite PMI,HIGH,EUR
+afaa7539-076b-4a6a-aba2-0bbbc673cb36,10/27/2020 09:00:00,ECB Bank Lending Survey,HIGH,EUR
+ffccc455-de4f-40d0-ba72-72e03da40a97,10/27/2020 12:30:00,Durable Goods Orders,HIGH,USD
+a946e72a-5971-4fdb-9866-5d5bc0aa78c7,10/27/2020 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+337be351-e078-41b4-a348-99ce4dda91ba,10/29/2020 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+df465557-04c8-48c8-834f-b46ea7784e73,10/29/2020 12:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+c89df6f4-dcdd-49e7-a3b3-63b38954b0c6,10/29/2020 12:45:00,ECB Rate On Deposit Facility,HIGH,EUR
+c46b9d56-f8f1-4bfc-8743-a6503549eef9,10/29/2020 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+57811d87-b0f6-4b3e-9176-b1c9be5bc03f,10/29/2020 13:30:00,ECB Press Conference,HIGH,EUR
+0eb819cc-60b9-4d09-afe5-a4ad05bb9b13,10/30/2020 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR
+ff0a932c-5ef6-48aa-97c0-e46a0233dbae,10/30/2020 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+c58b575c-2c6a-4b29-8b69-7fa8ffbf52d1,10/30/2020 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+9b72a1b5-fe15-48be-a47e-300728480a76,10/30/2020 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+4bec4038-cca4-423a-9aea-287fcc2eef95,10/30/2020 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+d56f5e77-e8a4-4093-a8b7-9339bb6b069f,11/02/2020 15:00:00,ISM Manufacturing PMI,HIGH,USD
+6f20d859-3fc8-4205-9862-4d27bc2ce5d2,11/04/2020 13:15:00,ADP Employment Change,HIGH,USD
+5aa47434-2c95-4c20-8b77-5c84577f15cf,11/04/2020 15:00:00,ISM Services PMI,HIGH,USD
+50ffc838-d034-4aa9-a593-5e67a8ca9d05,11/05/2020 19:00:00,Fed Interest Rate Decision,HIGH,USD
+ad589723-decb-4ab4-9ae7-40a53ef7f33c,11/05/2020 19:00:00,Fed Monetary Policy Statement,HIGH,USD
+b09b6f3c-b03e-4976-980d-79e8a5d4a405,11/05/2020 19:30:00,FOMC Press Conference,HIGH,USD
+2dadf485-497a-4df2-8383-558fb25fc774,11/06/2020 13:30:00,Nonfarm Payrolls,HIGH,USD
+af25c97c-3d72-41c5-9a7a-e7cf030b087d,11/09/2020 09:25:00,ECB's President Lagarde speech,HIGH,EUR
+d2420479-87cb-4850-a02a-c44aace8dca0,11/11/2020 13:00:00,ECB's President Lagarde speech,HIGH,EUR
+d47f5403-67b2-47bb-afc8-f88bc5fa7ffb,11/12/2020 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+5a09d344-f50c-4d3a-a7aa-5c24c4c07e26,11/12/2020 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+16df09d9-5676-4bc6-9d8d-49bb4081f241,11/12/2020 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+0521b2b0-819f-42ad-8e88-ac1d45b3d32e,11/12/2020 16:45:00,ECB's President Lagarde speech,HIGH,EUR
+cc38d57f-abb7-4eac-96c8-ba29f9224e57,11/12/2020 16:45:00,Fed's Chair Powell speech,HIGH,USD
+30901d32-aa16-4da1-b182-380d85843875,11/13/2020 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+74efa5f2-6826-440b-b8dc-6d8ac7516c79,11/13/2020 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+21093bce-b01c-4e9e-9e9f-69439a0bb4a8,11/16/2020 13:00:00,ECB's President Lagarde speech,HIGH,EUR
+89db9c33-f16a-4748-b6da-ded0cc100f9f,11/17/2020 16:00:00,ECB's President Lagarde speech,HIGH,EUR
+246fc17e-07d2-4b92-b5f6-b178c11fea8f,11/17/2020 18:00:00,Fed's Chair Powell speech,HIGH,USD
+4a20ff6b-7462-499f-9bea-7d91b5b374c0,11/19/2020 08:00:00,ECB's President Lagarde speech,HIGH,EUR
+a8b49fdd-ab49-42d0-91ea-af347011ff0d,11/19/2020 15:15:00,ECB's President Lagarde speech,HIGH,EUR
+f72b5712-0852-4f37-80c6-006ea978b0eb,11/20/2020 08:35:00,ECB's President Lagarde speech,HIGH,EUR
+cff01c56-d22f-49ac-b102-afda6ae9d88d,11/23/2020 08:30:00,HCOB Composite PMI,HIGH,EUR
+f67ad352-6cfa-454e-96a0-d4315870afde,11/23/2020 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
+fc429a58-1a71-4a26-8413-eadcf57b0568,11/23/2020 09:00:00,HCOB Composite PMI,HIGH,EUR
+9e6593ca-5bab-4a6f-9bb7-636f29a13fb4,11/24/2020 14:00:00,ECB's President Lagarde speech,HIGH,EUR
+5bd278c7-8160-420a-b013-d535410142f7,11/25/2020 13:30:00,Durable Goods Orders,HIGH,USD
+5a8b60e0-4169-4ef7-9460-f90988863ae4,11/25/2020 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+6ae94c3a-3d97-4c75-b0de-4234a864a68c,11/25/2020 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+f41904c8-dd65-4ecf-b63d-05a7bc1615e0,11/25/2020 19:00:00,FOMC Minutes,HIGH,USD
+b55dabcb-619e-4dc4-abbb-303b8563bab0,11/30/2020 10:30:00,ECB's President Lagarde speech,HIGH,EUR
+bd08ebff-530d-42bb-9508-5cd47b977507,11/30/2020 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+4da6d0c7-03c2-4751-80ef-3bcfc2478ed1,12/01/2020 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+8bbf2834-afa1-4093-aca1-a98d6745606b,12/01/2020 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+73c65171-0055-44f0-b028-e972735c9c6d,12/01/2020 15:00:00,Fed's Chair Powell testifies,HIGH,USD
+55d7fa83-824f-49bb-bad9-bd98b2797cb0,12/01/2020 15:00:00,ISM Manufacturing PMI,HIGH,USD
+69d8f14c-2c66-49af-a982-cf43b96800e2,12/01/2020 17:00:00,ECB's President Lagarde speech,HIGH,EUR
+a6e73b38-2019-4a8c-b658-cb425bd5cd92,12/02/2020 13:15:00,ADP Employment Change,HIGH,USD
+9ff3da80-dac5-48d0-a279-16a7079d8a4c,12/03/2020 15:00:00,ISM Services PMI,HIGH,USD
+4c609949-0598-4248-95c5-24730c519639,12/04/2020 13:30:00,Nonfarm Payrolls,HIGH,USD
+2ccf01a2-2077-4ee8-a7bb-587ba08f1e7a,12/08/2020 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
+866eb956-9ceb-47b2-b36d-af15190f0fe2,12/08/2020 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
+ef343285-8d92-43f1-9228-9edc18df218b,12/10/2020 12:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+5ed85b3e-7b8b-4f03-8a9c-6dfa2d85dc5b,12/10/2020 12:45:00,ECB Rate On Deposit Facility,HIGH,EUR
+4510a3c0-8957-43cd-9628-cfc8e57b1db6,12/10/2020 13:30:00,ECB Press Conference,HIGH,EUR
+a3d5f261-dba4-4a04-a65d-dc650a2a6634,12/10/2020 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+77a5bcc7-4ee7-4973-8183-4c5fbca25d1f,12/10/2020 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+5a4a04dd-0306-4d4a-bb8d-8e2511f8d216,12/11/2020 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+1b345033-0ef5-4798-b3bf-6191903e34fe,12/16/2020 08:30:00,HCOB Composite PMI,HIGH,EUR
+10bff0e0-7f21-4ccb-bc58-1db4fd4312ea,12/16/2020 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
+034271bd-556b-4552-bbe4-72ceedb55d3a,12/16/2020 09:00:00,HCOB Composite PMI,HIGH,EUR
+001393b9-786e-49b0-aa3e-d9d42ef44103,12/16/2020 19:00:00,Fed Interest Rate Decision,HIGH,USD
+bc9d8865-ac1c-4133-bbb3-ed9235374aaa,12/16/2020 19:00:00,Fed Monetary Policy Statement,HIGH,USD
+95236d78-786d-4f22-8745-ed1e963f6ddb,12/16/2020 19:00:00,FOMC Economic Projections,HIGH,USD
+ddc3ff10-8fcc-45b8-af22-8b76483d768d,12/16/2020 19:00:00,Interest Rate Projections - 1st year,HIGH,USD
+b31e0389-4499-455e-8345-2fde735a19c0,12/16/2020 19:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+6e036086-4038-468b-a7f4-cbac5f547acc,12/16/2020 19:00:00,Interest Rate Projections - 3rd year,HIGH,USD
+22717773-ca99-47ae-8bc9-0d1a86ade4dc,12/16/2020 19:00:00,Interest Rate Projections - Current,HIGH,USD
+d36436e5-b115-4606-b1f3-6ef057e56c43,12/16/2020 19:00:00,Interest Rate Projections - Longer,HIGH,USD
+3ec58721-f6f2-4a0e-8e95-66502088d953,12/16/2020 19:30:00,FOMC Press Conference,HIGH,USD
+18811123-7707-46fc-98ba-095d66287f9c,12/18/2020 21:30:00,Bank Stress Test Results,HIGH,USD
+c36693b0-c08f-4773-b9a2-0cbd3a8f680c,12/22/2020 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+6828f181-fe95-4bc8-8001-495d0aaa4e70,12/23/2020 13:30:00,Durable Goods Orders,HIGH,USD
+08f70c0e-2c55-4c02-8a89-fb7349ba4e26,12/23/2020 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD

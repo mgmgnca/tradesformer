@@ -45,9 +45,19 @@
             "close_30_sma", "close_60_sma",
             "returns_5", "returns_24"
         ],
+        "features_scaled":  [
+            "vol", "atr_base", "log_returns", "price_norm", 
+            "rsi", "macd_hist", "adx", "stoch_k", 
+            "spread_ratio", "body_ratio"
+        ],
+        "features_unscaled": [
+            "hour_sin", "hour_cos", "london_session", "ny_session", 
+            "overlap_session", "is_high_impact_news"
+        ],
+        "features_filter": ["ma_fast", "ma_slow"],
         "action_threshold": 0.5,
         "over_night_cash_penalty": 5,
-        "balance": 1000,
+        "balance": 10000,
         "symbol_col": "symbol", 
         "time_col": "time",
         "random_start": true,
