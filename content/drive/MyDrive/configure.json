@@ -1,0 +1,141 @@
+{
+    "data_processing": {
+        "indicator": {
+            "sma_fast_period": 50,
+            "sma_mid_period": 100,
+            "sma_slow_period" : 200,
+            "atr_period": 14,
+            "rsi_period": 14,
+            "macd_fast_period": 12,
+            "macd_slow_period": 26,
+            "macd_signal_period": 9,
+            "adx_period": 14,
+            "stoch_period": 14
+        },
+        "sequence_length": 100,
+        "required_cols": ["time","open", "high", "low", "close"], 
+        "scale_cols": ["macd", "rsi_30", "atr", "dx_30"],
+        "min_bars_per_week": 1440,
+        "train_eval_split": {
+            "eval_criteria": ["nan", "zero"],
+            "base_path": "/content/drive/MyDrive/data/split/{symbol}",
+            "train_dir": "train",
+            "eval_dir": "eval"
+        },
+        "temporal_features": {
+            "session_hours": {
+                "london": [8, 16],
+                "new_york": [13, 21]
+            },
+            "cyclical_encoding": {
+                "minute_blocks": 12,
+                "hour_range": 24
+            }
+        }
+    },    
+    "env": {
+        "indicator_period": 48,
+        "observation_list": [
+            "mean_std_open", "mean_std_high", "mean_std_low", "mean_std_close",
+            "hour_sin", "hour_cos", 
+            "minute_sin", "minute_cos",
+            "london_session", "ny_session","overlap_session",
+            "macd", "boll_ub", "boll_lb",
+            "rsi_30", "atr", "volatility_ratio",
+            "close_30_sma", "close_60_sma",
+            "returns_5", "returns_24"
+        ],
+        "features_scaled":  [
+            "vol", "atr_base", "log_returns", "price_norm", 
+            "rsi", "macd_hist", "adx", "stoch_k", 
+            "spread_ratio", "body_ratio"
+        ],
+        "features_unscaled": [
+            "hour_sin", "hour_cos", "london_session", "ny_session", 
+            "overlap_session", "is_high_impact_news"
+        ],
+        "features_filter": ["ma_fast", "ma_slow"],
+        "action_threshold": 0.5,
+        "over_night_cash_penalty": 5,
+        "balance": 10000,
+        "symbol_col": "symbol", 
+        "time_col": "time",
+        "random_start": true,
+        "log_filename": "/content/drive/MyDrive/data/log/log_{symbol}",
+        "do_nothing": 0.1,
+        "title":"{symbol} 5M weekly",
+        "description":"sma, rsi and boll input in weekly with {symbol}",
+        "shaping_reward": 0.1,
+        "forward_window": 12,
+        "backward_window": 96, 
+        "good_position_reward_scale": 0.01,
+        "trailing_stop_distance_points": 200,
+        "drawdown_penalty_factor": 10,
+        "margin_requirement": 100,
+        "consistency_reward" : 0.01,
+        "max_consistency" : 12
+    },
+    "symbol": {
+        "GBPUSD": {
+            "point": 100000,
+            "max_spread": 50,
+            "transaction_fee": -10,
+            "over_night_penalty": -50,
+            "stop_loss_max": -300,
+            "profit_taken_max": 600,
+            "max_current_holding": 1,
+            "limit_order": false,
+            "limit_order_expiration": 5
+        },
+        "EURUSD": {
+            "point": 100000,
+            "max_spread": 50,
+            "transaction_fee": -10,
+            "over_night_penalty": -50,
+            "stop_loss_max": -200,
+            "profit_taken_max": 500,
+            "max_current_holding": 1,
+            "limit_order": false,
+            "limit_order_expiration": 5
+        },
+        "AUDUSD": {
+            "point": 100000,
+            "max_spread": 50,
+            "transaction_fee": -5,
+            "over_night_penalty": -50,
+            "stop_loss_max": -400,
+            "profit_taken_max": 800,
+            "max_current_holding": 1,
+            "limit_order": false,
+            "limit_order_expiration": 5
+        },  
+        "AUDJPY": {
+            "point": 100000,
+            "max_spread": 50,
+            "transaction_fee": -5,
+            "over_night_penalty": -50,
+            "stop_loss_max": -400,
+            "profit_taken_max": 800,
+            "max_current_holding": 1,
+            "limit_order": false,
+            "limit_order_expiration": 5
+        }        
+    },
+    "trading_hour":{
+        "Sydney":{"from":0,"to":0},
+        "Tokyo":{"from":0,"to":0},
+        "London":{"from":8,"to":16},
+        "NewYork":{"from":9,"to":17}
+    },
+    "ploting":{
+        "buy":{"color":"red","shape":""},
+        "sell":{"color":"green","shape":""},
+        "macd":{"color":"yellow","shape":""},
+        "boll_ub":{"color":"blue","shape":""},
+        "boll_lb":{"color":"purple","shape":""},
+        "rsi_30":{"color":"white","shape":""},
+        "dx_30":{"color":"pink","shape":""},
+        "close_30_sma":{"color":"orange","shape":""},
+        "close_60_sma":{"color":"grey","shape":""}        
+    }
+}
