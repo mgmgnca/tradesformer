@@ -46,15 +46,41 @@
             "returns_5", "returns_24"
         ],
         "features_scaled":  [
-            "vol", "atr_base", "log_returns", "price_norm", 
-            "rsi", "macd_hist", "adx", "stoch_k", 
-            "spread_ratio", "body_ratio"
+            "fast_ts",
+            "mid_ts",
+            "slow_ts",
+            "fast_mid_gap",
+            "mid_slow_gap",
+            "fast_slow_gap",
+
+            "atr_norm",
+            "momentum_score",
+            "return_5"
+
+
         ],
         "features_unscaled": [
-            "hour_sin", "hour_cos", "london_session", "ny_session", 
-            "overlap_session", "is_high_impact_news"
+            "hour_sin", 
+            "hour_cos", 
+            "london_session", 
+            "ny_session", 
+            "overlap_session", 
+            "fast_td",
+            "mid_td",
+            "slow_td",
+
+            "vol_low",
+            "vol_med",
+            "vol_high",
+            "mom_bearish",
+            "mom_neutral",
+            "mom_bullish",
+
+            "pre_news",
+            "post_news"
+            
         ],
-        "features_filter": ["ma_fast", "ma_slow"],
+        "features_filter": ["mid_ma", "slow_ma"],
         "action_threshold": 0.5,
         "over_night_cash_penalty": 5,
         "balance": 10000,
